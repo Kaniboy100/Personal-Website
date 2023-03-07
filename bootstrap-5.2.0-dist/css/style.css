@@ -1,0 +1,84 @@
+.keImg {
+    display: flex;
+}
+
+.titleName {
+    padding-top: 5rem;
+}
+
+div {
+    align-content: center;
+    text-align: left;
+}
+
+.mt-6 {
+    margin-top: 6rem;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.line {
+    display: block;
+    width: 25px;
+    height: 1.5px;
+    background-color: #F85C70;
+}
+
+.pl-3 {
+    padding-left: 3rem;
+}
+
+.aboutMeBorder {
+    border-right: 1px solid #fbc1c9;
+    padding: 10px;
+
+}
+
+.aboutMeBorder:last-child {
+    border-right: none;
+}
+
+.removeLink {
+    text-decoration: none;
+    color: black;
+}
+
+.ml-70 {
+    margin-left: 70px;
+}
+
+.info {
+    color: rgb(108, 117, 125);
+    font-size: 15px;
+}
+
+.list-unstyled {
+    padding-left: 0px;
+    list-style: none;
+}
+
+.liAbout{
+    padding-bottom: 15px;
+}
+.liAbout:first-child {
+    padding-top: 5px;
+}
+
+.about-section .about-card {
+    padding: 30px;
+    padding-bottom: 40px;
+}
+
+div {
+    display: block;
+}
+.card {
+    border: none;
+}
